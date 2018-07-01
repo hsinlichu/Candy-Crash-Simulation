@@ -1,0 +1,26 @@
+Candy Crash Simulation
+
+程式簡介
+
+為candy crash的玩法，目前是將盤面設為5X5，有4種糖果(0,1,2,3)
+分數的部分則暫時是用消幾顆糖果來計算
+
+執行格式
+
+python3 Candy Crash Simulation.py
+
+函式介紹
+
+encode(board, height, width)              把兩維陣列的盤面轉成二進位編碼
+printbit(board, height, width)            把二進位印出來
+buildboard(board, height, width)          
+detect(board, height, width)              偵測盤面有什麼可能的移動方式，會return 一個dictionary {location:move}。
+                                          其中move是一個list會存該位置所有可能的走法
+eliminate(board,height,width)             會將盤面所有可以消掉的糖果清掉，並把上面的糖果往下移，同時亂數產生新的糖果填入上方空位
+eliminate_to_static(board,height,width)   會不斷call eliminate 直到盤面達到不能繼續消為止
+initialize(height,width)                  亂數產生盤面，然後call eliminate_to_static 直到產生穩定的盤面return
+swap(board,r1,c1,d)                       照使用者輸入的指令移動糖果
+printboard(board)                         格式輸出盤面
+
+附註
+如果有人想看eliminate_to_static中間的過程，可以把line 202 #printboard(board) 的註解拿掉就可以看到過程了~
