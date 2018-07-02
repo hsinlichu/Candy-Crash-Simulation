@@ -4,17 +4,10 @@ This project use some probability method to analyze Candy Crash Saga. The probab
 
 ## File List
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<iframe src="https://www.w3schools.com">
-  <p>Your browser does not support iframes.</p>
-</iframe>
-
-</body>
-</html>
-
 ## Proposal
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqvtEBwoQzwk4HGy0z6v-qKdcCUwvk4T5iO6F4NJ43MdXWN--2Y213bgo703Ry4NyqjRoXFqWYdoDt/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
+https://docs.google.com/presentation/d/e/2PACX-1vTuZHhClh25StvTfkh1HFSpoTinqaEKG-dTHmsZXiM176Qdv2IyaygOjzC1tl4wDodldxghRGY1eDxd/pub?start=false&loop=false&delayms=3000
+
+## Final Report
+
+https://docs.google.com/presentation/d/e/2PACX-1vRv_U_Yv_DclwPa264gYS12hFvsK1dx1D-VBtjG1xMnK6r2Kw7yfelv1hbOHbGgj-gkATU9Ma7EJQYk/pub?start=false&loop=true&delayms=3000
