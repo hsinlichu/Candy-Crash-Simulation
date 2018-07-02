@@ -1,1 +1,0 @@
-webpackJsonp(["font"],{"./public/css/google-font.css":function(o,s){}},["./public/css/google-font.css"]);
